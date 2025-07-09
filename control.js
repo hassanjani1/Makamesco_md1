@@ -1,11 +1,11 @@
 /*  +++Official frediezra tech info base vision 3.0.0 npm +++ */
 // Facebook @sirbravin
 // Instagram @sirbravin
-// Threads @FrediEzra
+// Threads @sirbravin
 // X (tweeter) @sitbravin
 // LinkedIn @sirbravin
 // YouTube @alonetech
-// github @Fred1e, @mr-X-force, @devfreetec
+// github @lovertoxic,toxiclover-tech
 // WhatsApp @252717+++++
 // telegram t.me/sirbravin
 // WhatsApp channel 
