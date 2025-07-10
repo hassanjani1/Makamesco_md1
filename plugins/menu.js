@@ -53,17 +53,17 @@ ezra({
 
     const temps = moment().format('HH:mm:ss');
     const date = moment().format('DD/MM/YYYY');
-    const img = 'https://files.catbox.moe/uw4l17.jpeg';
-    const imgs = 'https://files.catbox.moe/wp4qci.jpg';
+    const img = 'https://files.catbox.moe/sigghy.jpg';
+    const imgs = 'https://files.catbox.moe/sigghy.jpg';
 
     const infoMsg = `
 ╭───────────⊷
-*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  ☢️JEEPERS CREEPER-XMD☢️*
+*┋* *ʙᴏᴛ ɴᴀᴍᴇ :  🚨MAKAMESCO-MD🚨*
 *┋* *ᴘʀᴇғɪx :* [ ${s.PREFIXE} ]
 *┋* *ᴍᴏᴅᴇ :* ${mode}
 *┋* *ᴅᴀᴛᴇ  :* ${date}
 *┋* *ᴘʟᴀᴛғᴏʀᴍ :* ${os.platform()}
-*┋* *ᴏᴡɴᴇʀ ɪs : SIR BRAVIN*
+*┋* *ᴏᴡɴᴇʀ ɪs : Makamesco*
 *┋* *ᴘʟᴜɢɪɴs ᴄᴍᴅ :* ${cm.length}
 ╰───────────⊷\n`;
     
@@ -82,25 +82,25 @@ ezra({
     }
     
     menuMsg += `
-> @made by sir bravin 2025\n`;
+> @made by meshack matheka 2025\n`;
 
     try {
         await zk.sendMessage(dest, { 
-            image: { url: "https://files.catbox.moe/wp4qci.jpg" },
+            image: { url: "https://files.catbox.moe/sigghy.jpg" },
             caption: infoMsg + menuMsg,
             contextInfo: {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: "120363366284524544@newsletter",
-                    newsletterName: "@sir bravin",
+                    newsletterJid: "120363418628641913@newsletter",
+                    newsletterName: "MAKAMESCO-MD",
                     serverMessageId: -1
                 },
                 forwardingScore: 999,
                 externalAdReply: {
-                    title: "☢️ JEEPERS CREEPER-XMD☢️",
+                    title: "🚨MAKAMESCO-MD 🚨",
                     body: "🔑🗝️ Command List",
-                    thumbnailUrl: "https://files.catbox.moe/wp4qci.jpg",
-                    sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
+                    thumbnailUrl: "https://files.catbox.moe/sigghy.jpg",
+                    sourceUrl: "https://whatsapp.com/channel/0029VbAEL9r5vKA7RCdnYG0S",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }
