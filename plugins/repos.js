@@ -25,22 +25,22 @@ ezra({
   try {
     await _0x36286d.sendMessage(_0x72e714, {
       'audio': {
-        'url': "https://files.catbox.moe/6xmof1.mp3"
+        'url': "https://files.catbox.moe/sigghy.jpg"
       },
       'mimetype': "audio/mp4",
       'ptt': true,
       'contextInfo': {
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
-          'newsletterJid': "120363366284524544@newsletter",
-          'newsletterName': "toxic lover",
+          'newsletterJid': "120363418628641913@newsletter",
+          'newsletterName': "Makamesco-MD",
           'serverMessageId': 0x8f
         },
         'forwardingScore': 0x3e7,
         'externalAdReply': {
-          'title': "toxic lover",
+          'title': "makamesco",
           'body': "⚫ Pong: " + _0x21013e + "ms\n📅 *Date:* " + _0x1b450d + "\n⏰ *Time:* " + _0x4e1d22,
-          'thumbnailUrl': "https://files.catbox.moe/a4q16k.jpg",
+          'thumbnailUrl': "https://files.catbox.moe/sigghy.jpg",
           'mediaType': 0x1,
           'renderSmallThumbnail': true
         }
@@ -67,27 +67,27 @@ ezra({
     const _0x273ae5 = await axios.get("https://github.com/toxiclover-tech/TOXIC-LOVER-MD");
     const _0x540861 = _0x273ae5.data;
     const _0x5abda2 = moment(_0x540861.updated_at).format("DD/MM/YYYY");
-    const _0xb0dc07 = "\nThis is\n\n> JEEPERS CREEPER-XMD\n\n*Don't forget fork and star repo*\n\n> *sᴛᴀʀs:* " + _0x540861.stargazers_count + "\n> *Forks:* " + _0x540861.forks_count + "\n> *Watchera:* " + _0x540861.watchers + "\n> *Updated:* " + _0x5abda2 + "\n> *Repo Link:*" + _0x540861.html_url + "*\n\n®";
+    const _0xb0dc07 = "\nThis is\n\n> MAKAMESCO-MD\n\n*Don't forget fork and star repo*\n\n> *sᴛᴀʀs:* " + _0x540861.stargazers_count + "\n> *Forks:* " + _0x540861.forks_count + "\n> *Watchera:* " + _0x540861.watchers + "\n> *Updated:* " + _0x5abda2 + "\n> *Repo Link:*" + _0x540861.html_url + "*\n\n®";
     await _0x16c249.sendMessage(_0x1e08fe, {
       'image': {
-        'url': "https://files.catbox.moe/a4q16k.jpg"
+        'url': "https://files.catbox.moe/sigghy.jpg"
       },
       'caption': _0xb0dc07,
       'contextInfo': {
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
-          'newsletterJid': "120363366284524544@newsletter",
-          'newsletterName': "toxic lover",
+          'newsletterJid': "120363418628641913@newsletter",
+          'newsletterName': "Makamesco",
           'serverMessageId': 0x8f
         },
         'forwardingScore': 0x3e7,
         'externalAdReply': {
-          'title': "JEEPERS CREEPER-XMD",
+          'title': "🚨MAKAMESCO-XMD",
           'body': "🫧 repo link request 🫧",
-          'thumbnailUrl': "https://files.catbox.moe/a4q16k.jpg",
+          'thumbnailUrl': "https://files.catbox.moe/sigghy.jpg",
           'mediaType': 0x1,
           'mediaUrl': '',
-          'sourceUrl': ''
+          'sourceUrl': 'https://github.com/mesh-matheka/Makamesco_md'
         }
       }
     });
@@ -97,12 +97,12 @@ ezra({
       },
       'mimetype': "audio/mp4",
       'ptt': true,
-      'caption': "*🫧 JEEPERS CREEPER-XMD repo song 🫧",
+      'caption': "*🫧 JEEPE-XMD repo song 🫧",
       'contextInfo': {
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
-          'newsletterJid': "120363366284524544@newsletter",
-          'newsletterName': "toxic lover",
+          'newsletterJid': "120363418628641913@newsletter",
+          'newsletterName': "Makamesco",
           'serverMessageId': -1
         }
       }
