@@ -8,13 +8,14 @@
   - 𝙐𝙎𝙀 𝙋𝘼𝙉𝙀𝙇 𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙁𝙊𝙍 𝘼𝙐𝙏𝙊 𝙍𝙐𝙉𝙉𝙄𝙉𝙂 𝘽𝙊𝙏 𝙒𝙄𝙏𝙃𝙊𝙐𝙏 𝙎𝙃 𝙁𝙄𝙇𝙀𝙎🤯.
 </details>
 
-## **👇FORK REPO**
-<a href="https://github.com/mesh-matheka/Makamesco_md/fork">
-  <img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK MAKAMESCO_MD" width="150">
+## 🚀 One-Click Setup Buttons
+
+<a href="https://github.com/mesh-matheka/Makamesco_md/fork" target="_blank">
+  <img src="https://img.shields.io/badge/FORK%20REPOSITORY-purple?style=for-the-badge&logo=github" alt="Fork Makamesco_md" width="240">
 </a>
 
 <a href="https://makamesco-md-code.onrender.com">
-  <img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=kenya" width="230" height="38.45"/>
+  <img title="GET SESSION ID" src="https://img.shields.io/badge/GET-SESSION ID HERE-green?style=for-the-badge&logo=kenya" width="230" height="38.45"/>
 </a>
 
 ### 𝐃𝐄𝐏𝐋𝐎𝐘:
@@ -34,7 +35,7 @@
 **🆁🅴🆂🅾🆄🆁🅲🅴🆂**
 <details>
 <summary>CLICK FOR MORE</summary>
-<a href="https://github.com/sesco001/Makamesco_md/archive/refs/heads/main.zip">
+<a href="https://github.com/mesh-matheka/Makamesco_md/archive/refs/heads/main.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Download Zip" width="150">
 </a>
   
@@ -47,7 +48,7 @@
 
 ## 🆃🅷🅴 🅱🅴🆂🆃 🆆🅰🆈 🆃🅾 🆁🆄🅽 🆈🅾🆄🆁 🅱🅾🆃 🅲🅾🅽🆃🅸🅽🆄🅾🆄🆂🅻🆈
 
-**WEBSITE**  
+**BOOST FOLLOWERS**  
 <a href="https://Makamescodigitalsolutions.com" target="_blank">
   <img alt="CLICK HERE" src="https://img.shields.io/badge/ VISIT TO MY WEBSITE  -25D366?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
