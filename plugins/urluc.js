@@ -88,13 +88,13 @@ ezra({ nomCom: "url", categorie: "General", reaction: "👨🏿‍💻" }, async
         // Respond with the URL based on media type
         switch (mediaType) {
             case 'image':
-                repondre(`Lucky url: ${catboxUrl}`);
+                repondre(`makamesco url: ${catboxUrl}`);
                 break;
             case 'video':
-                repondre(`lucky url: ${catboxUrl}`);
+                repondre(`makamesco url: ${catboxUrl}`);
                 break;
             case 'audio':
-                repondre(`lucky url: ${catboxUrl}`);
+                repondre(`makamesco url: ${catboxUrl}`);
                 break;
             default:
                 repondre('An unknown error occurred.');
