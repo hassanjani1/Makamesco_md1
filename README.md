@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/FORK%20REPOSITORY-purple?style=for-the-badge&logo=github" alt="Fork Makamesco_md" width="240">
 </a>
 
-<a href="https://makamesco-md-code.onrender.com">
+<a href="https://pairmakamesco.onrender.com">
   <img title="GET SESSION ID" src="https://img.shields.io/badge/GET-SESSION ID HERE-green?style=for-the-badge&logo=kenya" width="230" height="38.45"/>
 </a>
 
