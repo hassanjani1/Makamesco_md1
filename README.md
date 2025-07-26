@@ -21,7 +21,7 @@
 </a>
 
 <!-- ➕ Render Deploy Button (New) -->
-<a href="https://render.com/deploy?repo=https://github.com/mesh-matheka/Makamesco_md" target="_blank">
+<a href="https://render.com" target="_blank">
   <img src="https://img.shields.io/badge/DEPLOY%20TO%20RENDER-blue?style=for-the-badge&logo=render&logoColor=white" alt="Deploy on Render" width="220">
 </a>
 
