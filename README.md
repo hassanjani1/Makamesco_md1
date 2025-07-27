@@ -26,7 +26,7 @@
 </a>
 
 <!-- Optional Panel Deployment -->
-<a href="https://panel-ver.vercel.app/" target="_blank">
+<a href="https://spank-ver.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/DEPLOY%20ON%20PANEL-red?style=for-the-badge&logo=serverfault" alt="Deploy on Panel" width="220">
 </a>
 
@@ -36,11 +36,11 @@
 <details>
 <summary>CLICK FOR MORE</summary>
 
-<a href="https://github.com/mesh-matheka/Makamesco_md/archive/refs/heads/main.zip">
+<a href="https://github.com/sesco001/Spank-md/archive/refs/heads/main.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Download Zip" width="150">
 </a>
 
-<a href="https://bot-hosting.net/?aff=1259151615210819614">
+<a href="https://dashboard.katabump.com/auth/login#5e58ec">
   <img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Sign Up Hosting" width="150">
 </a>
 
